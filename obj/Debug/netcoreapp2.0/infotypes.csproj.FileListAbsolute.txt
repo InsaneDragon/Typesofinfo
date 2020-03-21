@@ -1,0 +1,10 @@
+C:\Users\C#Developer\infotypes\bin\Debug\netcoreapp2.0\infotypes.deps.json
+C:\Users\C#Developer\infotypes\bin\Debug\netcoreapp2.0\infotypes.runtimeconfig.json
+C:\Users\C#Developer\infotypes\bin\Debug\netcoreapp2.0\infotypes.runtimeconfig.dev.json
+C:\Users\C#Developer\infotypes\bin\Debug\netcoreapp2.0\infotypes.dll
+C:\Users\C#Developer\infotypes\bin\Debug\netcoreapp2.0\infotypes.pdb
+C:\Users\C#Developer\infotypes\obj\Debug\netcoreapp2.0\infotypes.csproj.CoreCompileInputs.cache
+C:\Users\C#Developer\infotypes\obj\Debug\netcoreapp2.0\infotypes.AssemblyInfoInputs.cache
+C:\Users\C#Developer\infotypes\obj\Debug\netcoreapp2.0\infotypes.AssemblyInfo.cs
+C:\Users\C#Developer\infotypes\obj\Debug\netcoreapp2.0\infotypes.dll
+C:\Users\C#Developer\infotypes\obj\Debug\netcoreapp2.0\infotypes.pdb
